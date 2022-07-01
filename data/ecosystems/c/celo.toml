@@ -12,6 +12,7 @@ sub_ecosystems = [
   "Symmetric Protocol",
   "Talent Protocol",
   "Ubeswap",
+  "NEFTME",
 ]
 
 github_organizations = [
@@ -3491,6 +3492,12 @@ url = "https://github.com/nategraf/wallet"
 
 [[repo]]
 url = "https://github.com/ndvo/celo"
+
+[[repo]]
+url = "https://github.com/NEFTME/neftme-poc-api"
+
+[[repo]]
+url = "https://github.com/NEFTME/neftme-poc-dapp"
 
 [[repo]]
 url = "https://github.com/NeoSPU/celo-monorepo"
